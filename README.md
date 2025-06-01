@@ -115,4 +115,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For any queries or support, please contact:
-- Email: rajendramishra377@gmail.com 
+- Email: rajendra95.work@gmail.com 
